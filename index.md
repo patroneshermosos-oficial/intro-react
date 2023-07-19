@@ -2,6 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
+has_children: true
 ---
 
 El curso en línea "Introducción al Desarrollo Frontend con React" es un programa diseñado para brindar a niñas y adolescentes latinoamericanas, de entre 10 y 24 años, con conocimientos básicos de diseño web, una introducción práctica al mundo de React. 
